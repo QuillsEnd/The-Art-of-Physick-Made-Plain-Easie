@@ -1,0 +1,25 @@
+Rewriting and modernizing the text of ‘The Art of Physick Made Plain & Easie’ which was written in 1684, has been interesting to say the least. While it appears to be written in a straightforward manner at times without context, and the historical background into Humoral / Galenic Medicine, it would be impossible to understand. Enough time has passed between the 17th century and today that the words used in the text can have a completely different meaning from the one we know today. This can make it difficult to modernize but not impossible. Below, you’ll find the process and sources used to modernize the text.
+Process:
+
+    Phase 1: Pull up the original text and any important background materials.
+    Phase 2: Rewrite sections. Difficult sections are then modernized with Claude AI, cross referenced against the original, and rewritten by hand. Added headings, links and notes where necessary.
+    Phase 3: Re-read the text with the original side by side. Look up etymology, add links to dictionary of terms, etc. Re-write if necessary.
+    Phase 4: Format.
+    Phase 5: Create updated pdf for download’s page.
+    Phase 6: Repeat.
+
+Sources:
+
+    Middle English Dictionary
+    Herbal History Research Network
+    Online Etymology Dictionary
+    Claude AI
+    University of Michigan Library Digital Collections
+    ‘Culpeper’s Medicine: A Practice of Western Holistic Medicine’ by Graeme Tobyn
+    ‘Passions and Tempers: A History of the Humours’ by Noga Arikha
+    Traditional herbalism texts
+    Reading Early Medicine
+    Encyclopedia of Renaissance Philosophy, ‘La Framboisière, Nicolas Abraham de’
+    ‘Heal Thyself: Nicholas Culpeper and the Seventeenth-Century Struggle to Bring Medicine to the People’ by Benjamin Woolley
+    Nick Cavanaugh‘s AHG Presentation ‘Galen’s Art of Physick: A Brief Introduction’
+    Welcome Trust Corporate Archive

@@ -1,0 +1,681 @@
+The Art of Physick Made Plain & Easie
+by D. Fambresarius
+
+*This modernized herbal is a work in progress and will be continuously updated.
+
+**You can access the origin text at: University of Michigan Library Digital Collections
+
+The Project | Historical Background | Summaries | Humoral Medicine | Dictionary | Download
+The Definition of Medicine
+
+There was a saying by the famous Philosopher and Orator Tully, that a conversation about any subject could be undertaken. But it should begin always begin with a definition of the subject.
+What is Medicine?
+
+Medicine has been defined in various ways by ancient physicians:
+
+    Galen:
+        The art of preserving present health and restoring lost health. (Constitution of Art)
+        The knowledge that protects health and expels disease. (Introductory Book)
+
+    Hippocrates:
+        The process of supplementing what is lacking and removing what is excessive in the body. (Treatise on Wind)
+
+    Herophilus:
+        The knowledge of what is healthy, unhealthy, or neutral. (The Subject)
+
+Note: What follows is a simplified dialogue between the Dean and a Candidate on medicine.
+
+Dean:
+
+    Medicine is not an art because:
+        An art is a system of consistent principles used to obtain an end. However, the principles of Medicine are not consistent but varied.
+        Medicine deals with both healthful and harmful things, which are inherently different.
+
+Candidate:
+
+    Medicine as an art:
+        While the subject matter may seem varied, the precepts are unified in purpose.
+        All medical principles work toward the same end.
+
+Dean:
+
+    Medicine is not a science because:
+        Science deals with consistent and unchanging phenomena. Medicine is concerned with inconsistent states of being. It is subjective as opposed to objective.
+        In medicine there are many controversial and disputed topics and the theories of medicine are not always certain.
+
+Candidate:
+
+    On medicine as a science:
+        While outcomes may be changeable, medicine is based on necessary and permanent axioms.
+        Universal principles in medicine are established by demonstration and are certain.
+
+Dean:
+
+    Medicine is not knowledge because:
+        Medicine deals with specific cases through direct observation of sensory details. These cannot be known through demonstration as intellectual knowledge is acquired. It cannot give us universalizing concepts.
+        The end goal of science is understanding. The end goal of medicine is to obtain health.
+
+Candidate:
+
+    On medicine as knowledge:
+        Medicine discusses healthy and sick bodies in general, not particular individuals.
+        It uses methods of knowledge, even if physicians consider sensory details in practice.
+
+Dean:
+
+    Hippocrates’ definition of medicine:
+        Hippocrates’ definition of medicine is false, because neither addition nor removal are categories of medicine.
+
+Candidate:
+
+    Hippocrates’ definition of medicine:
+        Neither of these actions alone (addition or removal), but both in combination, are a category of medicine.
+
+Dean:
+
+    Category of Medicine:
+        If there must be a category it is neither addition nor removal, but aptitude.
+        A category includes specific characteristics, for example, an ‘animal’ is a category for both humans and other animals.
+        Addition and removal are outcomes of medical treatment, not defining characteristics. Neither of which can be considered a category of medicine.
+
+Candidate:
+
+    Classification of Medicine:
+        Hippocrates definition of medicine isn’t based not Essential, but from the Effects.
+        In the definition, the actions of medicine are a figure of speech for the underlying aptitude of the actions.
+
+What is Health?
+
+Dean:
+
+    Then for the definition of Herophilus’ I refute it: There is no such thing as a neutral body. His definition of medicine as ‘a science of things, wholesome, unwholesome, or neither’ is flawed.
+
+Candidate:
+
+    I disagree.
+
+Dean:
+
+    A wholesome body is one which is healthy, an unwholesome body struggles with disease. But the body is always either in a state of health or illness. There is no neutral body.
+
+    I will prove it. Health and illness are direct opposites according to Aristotle. Therefore, since health and sickness are diametrically opposed, there can be no intermediate state between them.
+
+Candidate:
+
+    It is said that there is a neutral constitution, when the body is neither completely sick nor completely healthy.
+    Health and sickness are completely opposite according to Aristotle but not according to the physicians.
+
+Dean:
+
+    Galen teaches that health is balance and sickness is an inbalance. But there is no medium between them.
+    Note:
+        The original text uses Symmetry and Disorder instead of Balance and Inbalance. This is because the principles of holistic medicine were based on the ‘nature of being’ rather than anatomy. The symmetrical whole instead of the mechanistic frameworks of later medical practice.
+    Health in a condition that produces good actions. Sickness produces bad actions. There is no middle ground.
+    I declare this based on the authority of Galen who said, When a body ceases to be healthy, it becomes unhealthy. And in another place, he says: When the body transitions from health into sickness, the transition is imperceptible. And in another place, he states: One who can act and do as they were accustomed, according to all the body’s functions, is in good health; one who cannot is unsound or sick. The spectrum of health extends from the most perfect operation to a noticeable decline in operation- the disease beginning from that noticeable deterioration.
+
+Candidate:
+
+    Galen sometimes views health in a larger perspective, than at other times. I assert that there are two different states – one that is firm and stable and another in disposition and feeling, which is not as long-lasting but rather unstable and susceptible to every minor disruption or injury.
+    Galen considers someone healthy if the habitual functions of their body do not cease their proper activities, even though they operation only weakly. Certainly, he also counts among the healthy those neutral states in decline that are falling into sickness, as well as those neutral states in health who are in recovery. He encompasses the state of neutrality within the bounds of health.
+    However, when Galen excludes both conditions as unsound and insufficient to act as nature requires, he acknowledges a neutral condition that is not sound. This is because preservation isn’t appropriate, but it is necessary for neutral states falling into disorder, by way of maintenance, and for those newly recovered from a disorder, by way of restoration.
+
+What are the Parts of Medicine?
+
+Dean:
+
+    Natural philosophy is a speculative science, while medicine is an active practice. Therefore, physiology cannot be a part of both disciplines. Physiology is a subdomain of natural philosophy and so it should not be considered a part of medicine.
+    Natural philosophy perfectly describes the human body. Therefore, physiology is a part of natural philosophy.
+
+Candidate:
+
+    There are four parts to medicine. Physiology or the study of nature and natural processes. That which understands and takes into consideration health. Pathology, which addresses symptoms and conditions. The treatment of disease and remedies. Some divide these into five parts, separating the consideration of causes and symptoms into two distinct areas, those they are both encompassed within pathology.
+    Physiology is not a part of natural philosophy.
+    Philosophy understands the body in general terms, considering its natural state. In contrast, physiology, which is regarded as the primary branch of medicine, studies the body in detail – whether it’s healthy, diseased, or in a state between the two. Some even argue that medicine is specifically focused on humans.
+
+What are the Essential Components for Acquiring a Comprehensive Understanding of Medicine?
+
+Candidate:
+
+    Three things, the natural which is studied through physiology. The non-natural which are examined in relation to health and maintenance. Disease processes where pathology focuses on understanding them and therapeutics deals with treating and preventing them.
+
+Dean:
+
+    What things do you call ‘natural’?
+
+Candidate:
+
+    What is ‘natural’ is what constitutes the Nature of Man.
+
+Dean:
+
+    How many things do you believe to be ‘Natural’ to Man?
+
+Candidate:
+
+    Seven things. The Elements. The Temperaments. The Parts. The Humors. The Spirits. The Faculties and Functions. Of the Elements.
+    See: 7 Natural Things
+
+What is an Element?
+
+Candidate:
+
+    An ‘Element’ is the most fundamental unit of matter. According to Galen’s definition, it represents the simplest possible component – one that cannot be further subdivided into different substances. Thus, an element is the most basic component of a complex substance.
+    An element is a simple substance from which things are originally created and into which they ultimately break down.
+    See: 7 Natural Things
+
+Dean:
+
+    By this logic bones, muscles, flesh and other tissues would be considered the elements of the human body, since they are simple structures from which complex organs are built and into which organs can ultimately break down.
+    Note:
+        Candidate is explaining the term ‘element’ from a Humoral / Galenic perspective, where the elements are fire, air, water, and earth that all things are made of and eventually return to.
+        The dean is explaining that their definition would also explain an almost mechanistic approach to the parts of the human body. This is an early attempt at identifying what we know understand to be cells, molecules, atoms etc.
+
+Candidate:
+
+    Not true: They appear simple to our senses, but they are all composed of the four Elements and when they ultimately breakdown they return to their basic Elements which can then form new combinations.
+
+Dean:
+
+    How can this be!? Aren’t the Elements themselves the common beginnings of all natural substances dissolved into Matter and Form?
+    Note:
+        The Dean is asking for clarification, is the candidate actually saying that we can then manipulate the elements and return them to their natural state?
+
+Candidate:
+
+    This seems true in theory, but it doesn’t reflect reality. The Elements can only be divided through analysis or reason and not by Operation.
+    Note:
+        The Candidate says, while in theory we could, we cannot physically do so. We can only rely on the theory that the elements return, it cannot actually be proven.
+
+What is the Difference Between Principles and Elements?
+
+Candidate:
+
+    First, the Elements can emerge as individual elements or emerge from one another (via interaction and decay processes). But Principles emerge from neither, they are the foundations that produce all phenomena.
+    Secondly, the Elements are related to Principles. However, the Elements are the building blocks of physical tangible matter. Principles are abstract laws that govern nature and are intangible.
+
+How Many Elements Are There?
+
+Candidate:
+
+    Four: Fire, Air, Water, and Earth. Which Hippocrates called: Hot, Moist, Cold, and Dry.
+        See: Primary Qualities
+
+Dean:
+
+    What evidence do you give that there are only four Elements?
+
+Candidate:
+
+    I will give you three pieces. First, they are the first four Elements observable with the senses. Second, because they work together to form all known matter. Third, because everything eventually reverts back into these four Elements.
+
+Dean:
+
+    Demonstrate how Human Bodies are composed of all four Elements.
+
+Candidate:
+
+    It is the general consensus that all our bodies follow a clear organization. This form originating from the seed and maternal blood of our parents, creating a mixture of the Humors. This mixture of Humors is influenced by what is put into the body for nourishment. Whether that nourishment be meat from land or sea, fruit, herbs and flowers, it is all a mixture of the Elements.
+    Our nourishment comes from the Elements.
+    The Elements influence the Humors.
+    The Humors influence the Similar Parts.
+    The Similar Parts influence the Organic Members.
+    The Organic Members influence the Organic Parts of the Human Body.
+    That human bodies consist of the elements is obvious from the last part of our conversation. When a person dies, according to the laws of nature, they return to nature.This natural process demonstrates how humans are composed of the four fundamental elements. The bodies natural warmth disperses like heat or fire. The breath divides; part fire, part air. The bodies fluids revert to water. The solid parts- once they lose their moisture- dry out and crumble to earth.
+    Hippocrates was the first to explain the concept. He taught that when a person dies, everything returns to its original elemental state. As he described it:
+    Moist elements return to moisture. Dry elements return to dryness. Hot elements return to heat. Cold elements return to cold.
+
+Dean:
+
+    Explain more clearly how the human body is created from the four elements. The human body isn’t made directly from the elements themselves, but rather from their combined properties. And even these properties aren’t pure, but are mixed and balanced through their interactions with each other.
+    List the properties of each element.
+
+Candidate:
+
+    Fire: Extremely hot. Moderately dry.
+    Air: Extremely moist. Moderately heat.
+    Earth: Extremely cold. Moderately moist.
+    Water: Extremely dry. Moderately cold.
+    These elements are the basic carriers of these qualities. Our bodies are composed of their mixture and their balance. When this balance is maintained, we experience good health. When the balance is disrupted or altered by some external factor, illness occurs.
+    Note:
+        Here the candidate is explaining the 4 qualities and what they give rise to in the body. You can think of each element has have a major vs a minor quality.
+
+What is a Mixture?
+
+Candidate:
+
+    A mixture is the combination of altered substances that are capable of being blended together.
+
+Dean:
+
+    How is a mixture made, according to either the qualities, forms, or complete substances?
+
+Candidate:
+
+    The qualities are altered, the forms are united, and the complete elements mix with each other as wholes.
+
+Dean:
+
+    Explain the process of mixing more precisely.
+
+Candidate:
+
+    Alteration comes before mixing – specifically, the conflict between opposing qualities precedes the interaction through physical contact. All physical reactions require contact. Therefore, when elements combine to form a mixed substance:
+        They must make physical contact.
+        They then interact through their opposing properties.
+        Through this mutual interaction, they break down into the smallest possible parts.
+        These parts intermingle completely.
+    This is what we call a complete mixture.
+
+Dean:
+
+    So you’re saying substances mix with substances?
+
+Candidate:
+
+    Why wouldn’t they?
+
+Dean:
+
+    Because mixing requires opposition and substances themselves don’t oppose each other.
+
+Candidate:
+
+    A substance doesn’t naturally oppose another substance simply because it’s a substance. Rather, substances oppose each other through their properties. For example:
+        Fire doesn’t resist fire in it’s basic nature.
+        But fire and water oppose each other through their properties (fire being hot, water being cold).
+    Alteration changes properties, not fundamental forms. When elements interact:
+        Their properties change through mutual interaction.
+        They become balanced through breaking down and mixing.
+        Once their opposing qualities are neutralized, they can easily combine.
+        From the union of each element’s form, a new composite substance emerges with its own unique form.
+    Note:
+        This is a basic description of the process used in modern chemistry via chemical reactions, neutralizing through mixing, and the creation of new compounds. It demonstrates that medical professionals at the time were well versed in at least the basics of alchemy.
+
+What is a Temperament?
+
+Candidate:
+
+    A temperament is a balanced proportion of the four primary elemental qualities (hot, cold, wet, dry) that allows natural bodily functions to work properly. Different authorities defined it in various ways:
+        Avicenna (Ibn Sina) defined temperament as a quality that emerges when elements are mixed in proper proportion.
+        Galen described it as the foundation of natural functions and capabilities.
+        Averroes (Averröes) the form of a mixed (combined) substance.
+    However, I disagree with the last definition because the form of a combined substance is a substance itself, while temperament is merely a property or characteristic related to qualities.
+
+Dean:
+
+    Do you think the primary qualities can be mixed without mixing their elemental substances?
+
+Candidate:
+
+    No, that’s impossible. While temperament and mixture are different concepts – mixture referring to the elements themselves and temperament referring to their qualities- they are inseparable.
+    You cannot have:
+        A mixture without active qualities.
+        Temperament without all the elemental substances.
+    Therefore, temperament is the harmony of the four main qualities, arising from the mixture of all the elements.
+    Note:
+        The four main qualities were heat, dry, moist, and cold. Candidate is saying that without the elements mixing (fire, water, earth, and air), we wouldn’t have their qualities. And without the qualities themselves in harmony within the body, we wouldn’t have a temperament.
+
+Dean:
+
+    How many different types of temperament are there?
+
+Candidate:
+
+    There are nine types.
+    Eight imbalanced types, which include four simple types.
+    Four Simple Types:
+        Hot
+        Cold
+        Moist
+        Dry
+    Four Compound Types:
+        Hot & Moist.
+        Hot & Dry.
+        Cold & Moist.
+        Cold & Dry.
+
+Dean:
+
+    What is considered the ‘temperate’ state?
+
+Candidate:
+
+    The temperate states is what the Greeks referred to as ‘well-tempered’. It is seen as the ideal temperament that all others are compared to.
+
+Dean:
+
+    How many types of temperate state are there?
+
+Candidate:
+
+    There are two types of temperate state:
+        An absolute and balanced temperament.
+        A temperament that is calibrated for ‘justice’ across different categories.
+    Note:
+        A balanced temperament is one which contains a balanced proportion of all four qualities (hot, cold, wet, dry).
+        The second temperament is described in more detail by the Candidate further down.
+
+Dean:
+
+    What do you mean by an ‘absolute and balanced’ temperament?
+
+Candidate:
+
+    That is a temperament in which the elements are mixed together in an even, equal proportion – no more heat than moisture, no more cold than dryness.
+    Galen believed that this absolutely balanced temperament is more imaginary that real. Even if such a perfect equilibrium were to occur, he thought that it would only last for a very short time.
+
+Dean:
+
+    What do you mean by a temperament “calibrated for justice across different categories?
+
+Candidate:
+
+    The “temperament calibrated for justice across different genres” refers to a state that does not contain an exact, evenly balanced blend of opposites. Rather, it is a moderate midpoint that is appropriate for the specific nature and requirements of a given context or category.
+    In other words, the ideal temperament is not determined by a strict mathematical or arithmetic equivalence between the elements. Instead, it is defined by a kind of geometrical proportion – a balanced mean that best suits the particular genus or species in question.
+    ‘Justice’ in this context refers to giving each thing what it is due, according to its proper nature or worthiness.
+    Note:
+        The idea is that there may not be a single universal ideal temperament, but rather temperaments tailored to the needs and characteristics of different people, environments, or situations. A “just” or appropriate temperament would be one balanced for the particular circumstances.
+
+Dean:
+
+    What are simple, uncompounded temperaments?
+
+Candidate:
+
+    Such temperaments are those which one of the four qualities (heat, cold, moist, dry) predominates excessively.
+
+Dean:
+
+    And what are the compounded temperaments?
+
+Candidate:
+
+    Compounded temperaments are those which two qualities predominate excessively. The “hot and moist” temperament has an excess of both heat and moisture, with heat overpowering cold, and moisture overpowering dryness. The “cold and dry” temperament has more cold than heat, and more dryness than moisture.
+
+Dean:
+
+    You have distinguished the temperaments into simple and compound types, but that is misguided, because there are no truly simple temperaments.
+
+Candidate:
+
+    I disagree.
+
+Dean:
+
+    Prove it. A simple temperament would be one where a single element predominates, like heat in a fiery temperament or cold in a watery one. However, each element possesses two qualities. For example, fire is both hot and dry. Therefore, there can be no temperament that is truly simple.
+
+Candidate:
+
+    What is considered a “simple” temperament is one where a single quality predominates, not a single element.
+    Note:
+        This is the difference between elements (fire, water, air, earth) and qualities (heat, cold, moist, dry).
+
+Dean:
+
+    I disagree. Since a quality is an accident (i.e. a non-essential property), it cannot exist on its own without a subject. Therefore, if a particular quality of an element is superior, the element itself to which that quality belongs must necessarily prevail.
+    Note:
+        Since the elements create the qualities, when one quality is dominate, shouldn’t it mean that element is dominate as well?
+        This assumes that each element has one quality.
+
+Candidate:
+
+    Although each element has two qualities, there is only one that is dominant. This is what gives the temperament its name – it is called “hot” or “cold” because heat or cold prevails over the opposing quality, with an equality of moisture and dryness. Similarly, it is called “moist” or “dry” because moisture or dryness is more powerful than the other, with an equality of heat and cold.
+    Note:
+        Candidate asserts that each element has two qualities. Fire can be hot or dry for instance. But only one of these two qualities can be dominant. If the quality is dry, would we still say that the temperament is fire? No, we would say it was dry.
+
+What is a Part?
+
+Dean:
+
+    That’s enough of the Elements and Temperaments. What is a part?
+
+Candidate:
+
+    The term “part” in a broad sense refers to anything that makes up the whole human body. Galen notes that whatever completes and perfects the whole is considered a “part.”
+    Hippocrates used the term to include even bodily fluids and spirits.
+    However, Fernelius more precisely defines a part as a body that coheres to the whole, is joined by shared life, and serves a specific use or function. By this definition, fluids and spirits would be excluded from the category of “parts” since they do not stay fixed but rather flow rapidly through the veins and arteries.
+    Note:
+        Fernelius, may be a reference to Jean Fernel via his latinized name.
+
+Dean:
+
+    What are the main divisions of parts?
+
+Candidate:
+
+    The division of parts is complex, but the primary distinction is between containing parts and contained parts.
+
+Dean:
+
+    What are the containing parts?
+
+Candidate:
+
+    The containing parts are the solid structures that maintain their own form.
+
+Dean:
+
+    How are these classified?
+
+Candidate:
+
+    They are divided into Similar (homogeneous) and Dissimilar (heterogeneous) parts.
+
+Dean:
+
+    What are the similar parts?
+
+Candidate:
+
+    Similar (homogeneous) parts are those composed of a single, uniform substance throughout. They are the smallest visible units into which the body can be broken down. For this reason, they are sometimes called:
+        Simple or primary parts
+        Sensible elements (as they appear simple to our senses)
+
+Dean:
+
+    How are Similar parts categorized?
+
+Candidate:
+
+    They are divided into Spermatic (derived from seed/embryonic tissue) and Sanguine (derived from blood).
+
+Dean:
+
+    What are the Spermatic parts?
+
+Candidate:
+
+    Those that develop from embryonic tissue.
+
+Dean:
+
+    How many Similar Spermatic parts are there?
+
+Candidate:
+
+    Nine types:
+        Bones
+        Muscles
+        Ligaments
+        Fibers
+        Membranes
+        Nerves
+        Veins
+        Arteries
+        Skin
+    Note: This is a debate about tissue classification and how early anatomists struggled with categorizing simple and complex tissues.
+
+Dean:
+
+    I argue that nerves, veins, arteries, and skin are actually heterogeneous (dissimilar) parts. Here’s why, according to Galen, Hippocrates, and Plato in their work on body parts:
+    Nerves have:
+        A marrow-like interior
+        A membranous exterior
+    Veins and nerves are:
+        Interwoven with membranes
+        Contain various fibers
+    Skin is composed of:
+        Nerves
+        Veins
+        Arteries
+    Therefore, these structures should not be classified as homogeneous (similar) parts since they are clearly made up of different components.
+
+Candidate:
+
+    I argue, There are two categories of Similar (homogeneous) parts:
+    Truly homogeneous parts:
+        Bones
+        Muscles
+        Ligaments
+        Fibers
+        Membranes
+    Apparently homogeneous parts (appearing uniform to observation):
+        Nerves
+        Veins
+        Arteries
+        Skin
+
+Dean:
+
+    What are the Blood-derived parts?
+
+Candidate:
+
+    Those that develop from blood, namely:
+        Flesh
+        Fat
+
+Dean:
+
+    What are the Dissimilar (heterogeneous) parts?
+
+Candidate:
+
+    These are parts composed of several types of tissue.They are also called Organic parts because they serve as instruments through which mental faculties and bodily functions operate.
+
+Dean:
+
+    How are these Organic parts classified?
+
+Candidate:
+
+    They are divided into three main categories:
+        Animal (related to cognitive / nervous functions)
+        Vital (essential life functions)
+        Natural (basic biological functions)
+    And within each of these categories, the parts are further subdivided into:
+        Principal (primary) organs
+        Assistant (supporting) organs
+    Note: See: Spirits
+
+Dean:
+
+    What do you call the Animal, Vital, and Natural parts?
+
+Candidate:
+
+    These are the instruments responsible for the three types of functions.
+
+Dean:
+
+    What do you call the principle part?
+
+Candidate:
+
+    A principle part is one that governs other parts.
+
+Dean:
+
+    What are the assisting parts?
+
+Candidate:
+
+    Assisting parts are those that serve the Principle part and usually develop or are derived from them.
+
+Dean:
+
+    What is the principle organ of Animal Function?
+
+Candidate:
+
+    The brain is the principle organ because it:
+        Is the source of all animal functions (cognitive/ neural activity)
+        Houses the animal spirit (cognitive /neutral activity)
+        Is the origin point of all the nerves.
+    Note: This is an example of early recognition of the brain as having a central role in controlling bodily function via the nervous system. It is usually defined as ‘animal spirit’.
+
+Dean:
+
+    How many types of organs assist the brain in carrying out Animal (neutral / cognitive) function?
+
+Candidate:
+
+    There are two types of organs that assist the brain in carrying out the Animal (neutral / cognitive) function.
+        Conductive Organs:
+            Transmit the brain’s commands for sensation and movement.
+            Note: Nerves & Neural Pathways.
+        Executive Organs:
+            Perform the functions.
+                Sensory organs (perception)
+                Voluntary muscles (movement)
+    Note: This roughly corresponds in modern times to nervous system pathways, sensory receptors, and motor effectors.
+
+Dean:
+
+    Which organs transmit the capacity for sensation and motion?
+
+Candidate:
+
+    The sensory and motor nerves.
+
+Dean:
+
+    What are the specific organs for each sense?
+
+Candidate:
+
+    Each sense has its dedicated organ:
+        Eyes: for vision
+        Ears: for hearing
+        Nose: for smell
+        Tongue: for taste
+        Skin: for touch
+    Note: This is an early understanding in the differences between nerves that carry signals and organs that receive sensory input.
+
+Dean:
+
+    What are the specific organs for voluntary motion?
+
+Candidate:
+
+    The muscles.
+
+Dean:
+
+    What is the principle organ of the Vital Functions?
+    Note: See: Vital Functions
+
+Candidate:
+
+    The heart, because it is:
+        The source of vital force and spirit.
+        The primary site of natural body heat.
+        The origin point of all arteries.
+
+Dean:
+
+    Which organs are subordinate to the heart?
+
+Candidate:
+
+    There are two types:
+        Organs of respiration.
+        Organs of circulation / pulse.
+
+Dean:
+
+    What are the organs of respiration?
+
+Candidate:
+
+Editors Note: End of page 27
