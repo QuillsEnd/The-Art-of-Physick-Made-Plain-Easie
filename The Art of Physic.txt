@@ -1,11 +1,6 @@
 The Art of Physick Made Plain & Easie
 by D. Fambresarius
 
-*This modernized herbal is a work in progress and will be continuously updated.
-
-**You can access the origin text at: University of Michigan Library Digital Collections
-
-The Project | Historical Background | Summaries | Humoral Medicine | Dictionary | Download
 The Definition of Medicine
 
 There was a saying by the famous Philosopher and Orator Tully, that a conversation about any subject could be undertaken. But it should begin always begin with a definition of the subject.
@@ -592,6 +587,8 @@ Candidate:
 
     Assisting parts are those that serve the Principle part and usually develop or are derived from them.
 
+What Are The Organs?
+
 Dean:
 
     What is the principle organ of Animal Function?
@@ -678,4 +675,597 @@ Dean:
 
 Candidate:
 
-Editors Note: End of page 27
+    There are three types of organs of respiration:
+        Transmission:
+            Wind-pipe & rough Artery (transmit air)
+        Reception:
+            Lungs (receive & prepare air for the heart)
+        Motion:
+            65 Muscles that expand and contract in the chest which are essential for breathing and expelling vapors.
+
+Dean:
+
+    What are Pulse instruments?
+
+Candidate:
+
+    The Arteries
+
+Dean:
+
+    What is the main Organ of Natural Functions?
+
+Candidate:
+
+    Liver (origin of natural faculty, veins, and blood generation)
+
+Dean:
+
+    How many types of organs support natural bodily functions?
+
+Candidate:
+
+    Two types; some are for nourishment and others are for generation (digestion & reproduction).
+
+Dean:
+
+    What are the Organs of nourishment?
+
+Candidate:
+
+    Preparation organs
+    Purgation organs (Organs that remove the waste from the blood)
+    Distribution organs (of nourishment)
+
+Dean:
+
+    What Organs are for preparation of Nourishment?
+
+Candidate:
+
+    Preparation organs
+        Mouth (Mastication)
+        Stomach (Digestion / Concoction)
+
+Dean:
+
+    What Organs are for Purgation?
+
+Candidate:
+
+    There are two types of purgation organs (Organs that remove the waste from the blood). Those that purge the Chylus (Chyle) and those that purge the Blood.
+        Purges Chylus:
+            Belly
+        Purges Blood:
+            Spleen
+            Kidneys
+            Bladder
+        The purgative organs of the Blood receive and separate the blood from those Humors which received the Chylus, creating Blood.
+    Note: This describes the process where the stomach creates the Chyle and sends it to the spleen, kidneys, and bladder which then converts it into blood.
+
+Dean:
+
+    What Organ distributes Nourishment?
+
+Candidate:
+
+    The veins.
+
+Dean:
+
+    What are the Organs of Generation?
+
+Candidate:
+
+    Some are common to both Male and Female sexes.
+
+Dean:
+
+    Which ones are common to both?
+
+Candidate:
+
+    Testicles
+    Spermatic vessels
+
+Dean:
+
+    Which ones are sex specific?
+
+Candidate:
+
+    Male: Penis.
+    Female: Womb.
+
+Of The Humors
+
+Dean:
+
+    Having covered the containing parts, what are the contained parts?
+
+Candidate:
+
+    The fluid parts that are supported by other structures – specifically, the Humors and Spirits.
+
+Dean:
+
+    How many Humors are contained in the Body?
+
+Candidate:
+
+    Three Types:
+        Primogeneous Humor (naturally occurring)
+        Alimentary Humor
+        Excrementitious Humor
+
+Dean:
+
+    What is the Primogeneous Humor?
+
+Candidate:
+
+    An oily substance originating in the body’s solid parts, serving as the foundation for vital spirit and innate body heat and is called ‘Radical Moisture’.
+
+Dean:
+
+    What do you call the Alimentary Humors?
+
+Candidate:
+
+    The juices from solid body parts, created by mixing the four classical elements.
+
+Dean:
+
+    What are Excrementitious Humors?
+
+Candidate:
+
+    Excess bodily moisture that serves a useful purpose for the body.
+
+Dean:
+
+    How are Alimentary Humors categorized?
+
+Candidate:
+
+    Into Primary and Secondary humors.
+
+Dean:
+
+    What are the Primary Humors?
+
+Candidate:
+
+    Those distributed by chyle through the liver’s natural heat via veins to nourish body parts.
+
+Dean:
+
+    How many Primary Humors exist?
+
+Candidate:
+
+    Four:
+        Blood
+        Choler (Yellow Bile)
+        Melancholy (Black Bile)
+        Phlegm
+    These are mixed together in the veins, with blood being the predominant humor – hence called the “Sanguinary Mass” of which blood has the greatest quantity.
+
+Of The Blood
+
+Dean:
+
+    Define ‘Blood’.
+
+Candidate:
+
+    ‘Blood’ can be defined in two ways. The first, refers to the entirety of blood volume in the body. The second, is more specific and refers to the more pure and vital component of it.
+
+Dean:
+
+    What is the nature of blood’s composition (Temperature)?
+
+Candidate:
+
+    Blood, when considering the total blood volume, is considered well-balanced because it contains a proportionate mixture of different humors in harmony with each other. However, when looking at pure blood itself, it is characterized as pure and clear, hot and moist, somewhat similar to air in nature. It is not distinguished from the rest of the humors by temperature alone, but also by consistency, color, taste, and function.
+
+Dean:
+
+    What are blood’s physical properties, and what is its function?
+
+Candidate:
+
+    Blood has a specific consistency so thin that, when functioning normally, it appears neither too thick nor too thin. It is red in color and sweet in taste. It primarily nourishes muscle tissue when it is in proper balance, and is associated with people who are muscular, energetic, attractive, good-natured, and cheerful.
+
+Dean:
+
+    At what ages is blood most dominant?
+
+Candidate:
+
+    Blood is most prevalent in children, adolescents, and young adults. According to Galen, boys, young men, and those in between these ages have the highest proportion of the sanguine humor, as their life force is still at its strongest.
+
+Dean:
+
+    When is blood most abundant in the body?
+
+Candidate:
+
+    According to Hippocrates, blood is most abundant during spring, when frost thaws and water flows freely.
+
+Choler
+
+Dean:
+
+    What is Choler?
+
+Candidate:
+
+    Alimentary Choler is a thin component of the blood that behaves like a warming agent, it’s Temperament is hot and dry. It appears pale to yellow in color and has a bitter taste. Those who possess an abundance of it tend to be slim, resilient, energetic, impulsive and hasty. It differs from excrementitious choler.
+
+Dean:
+
+    What is excrementitious Choler?
+
+Candidate:
+
+    Choler is sent to the Bladder (Gallbladder) to aid in digestion by helping move waste through the intestines and clearing away any mucus that adheres to the intestinal walls.
+
+Dean:
+
+    What type of person tends to produce more Choler?
+
+Candidate:
+
+    Choler production peaks during young adulthood according to Galen.
+
+Dean:
+
+    When is Choler production highest?
+
+Candidate:
+
+    It was believed that Choler increased during summer and in dry weather conditions of the season of Air, as dryness was thought to increase Choleric qualities.
+
+Melancholy
+
+Dean:
+
+    What is Melancholy?
+
+Candidate:
+
+    Melancholy was considered the denser component of blood, associated with Earth, believed to be cold and dry in nature, dark in color, and sour-tasting. People with high levels of Melancholy were thought to be serious, contemplative, stern, and steady. It was believed to nourish dense body tissues like bones.
+
+Dean:
+
+    What is the excrementitious Melancholoy?
+
+Candidate:
+
+    The spleen was thought to filter this substance, separating useful components for nourishment from waste products. The filtered substance was believed to flow into the stomach to stimulate appetite and aid digestion. Strengthening the Faculty which retains meat during Concoction.
+
+Dean:
+
+    Who tends to have more Melancholy?
+
+Candidate:
+
+    It was believed to increase in older adults according to Galen.
+
+Dean:
+
+    When does Melancholy peak in the body?
+
+Candidate:
+
+    It was thought to be highest during autumn according to Hippocrates.
+
+Phlegm
+
+Dean:
+
+    What is phlegm?
+
+Candidate:
+
+    Alimentary Phlegm was considered the more fluid component of blood, associated with Water, believed to be cold and moist, white in color, and either sweet or tasteless. People with high levels were thought to be lethargic, drowsy, heavy, pale, and soft. It was believed to nourish the brain and other cool, moist organs.
+
+Dean:
+
+    What is Excrementitious Phlegm?
+
+Candidate:
+
+    This refers to the watery waste that the kidneys filter from blood and send to the bladder through the ureters, what we now call urine.
+
+Dean:
+
+    At what age is phlegm most prevalent?
+
+Candidate:
+
+    It was thought to increase in old age due to declining “natural heat.”
+
+Dean:
+
+    When does phlegm production peak in the body?
+
+Candidate:
+
+    Winter was believed to increase phlegm due to abundant rain and long nights. A moist Constitution of Air has a similar effect. Moisture in ambient Air, increases phlegmatic Humors and thus increases phlegm and water retention.
+
+Secondary Humors
+
+Dean:
+
+    What are the secondary humors?
+
+Candidate:
+
+    These are humors that originate from the primary humors in various parts of the body, where they are refined through the final stage of concoction. This process produces two visible waste products – sweat and feces – along with invisible waste that leaves the body through perspiration.
+
+Dean:
+
+    How many secondary humors are there?
+
+Candidate:
+
+    There are four, classified according to how they change while being prepared to nourish different parts of the body.
+    1st: Fluid contained in the small veins, ready to flow into empty spaces.
+    2nd: Fluid that spreads through body tissues, penetrating them like dew.
+    3rd: Fluid that collects around and adheres to hair.
+    4th: Thick fluid that adheres to muscle fibers so thoroughly that it appears to transform into body tissue. Through these progressive changes, the humors eventually become part of the body itself.
+
+Dean:
+
+    Do you think the humors that make up the body’s nature always remain in their natural state?
+
+Candidate:
+
+    No, they don’t. When humors maintain their proper mixture and balance, they’re natural. However, when they lose their balanced constitution, they become abnormal and deviate from their natural state. This explains why bodies are sometimes healthy and sometimes sick. As Hippocrates said, the body contains blood, phlegm, black and yellow bile – these constitute the body’s nature and determine health or illness.
+    Health exists when these humors are properly balanced in terms of Temperament, Quantity, and Quality, and in reference to mixture, when they are mixed and not separated from each other.
+    The body becomes ill when these humors malfunction in three ways:
+        When the balance of Temperament is disturbed. Some become excessive while others become deficient.
+        When the Quality in imbalanced. When one of the Faculties becomes excessive while others become deficient.
+        When the mixture is compromised and one humor separates from the rest.
+            When a humor separates from the whole, it necessarily causes illness both in the area it left and where it accumulates abnormally. If this separated humor leaves the body, it causes a simple illness. If it remains inside, it causes a double illness – one from the depletion in the area it left, through evacuation, and another from excess where it accumulates.
+
+Blood
+
+Dean:
+
+    How does blood become unnatural?
+
+Candidate:
+
+    Blood becomes unnatural when it corrupts: its thinner portion turns into yellow bile and its thicker portion into black bile, making it overly rich in both Choler and Melancholy. It can also be corrupted by other humors that flow into the veins from the gallbladder or other organs.
+
+Choler / Yellow Bile
+
+Dean:
+
+    How does bile deviate from its natural state?
+
+Candidate:
+
+    It can change its nature either inside or outside the blood vessels.
+
+Dean:
+
+    How many types of unnatural bile form in the blood vessels?
+
+Candidate:
+
+    Three types: pale, egg-yolk colored, and black.
+
+Dean:
+
+    What causes bile to become pale?
+
+Candidate:
+
+    It becomes pale when mixed with serous Humor.
+
+Dean:
+
+    How does it become egg-yolk colored?
+
+Candidate:
+
+    It’s a combination of yellow and pale bile, where Acrimony of abnormal heat concentrates it, transforming it from a thin to thick substance. Its color intensifies until it resembles a raw egg yolk.
+
+Melancholic / Black Bile
+
+Dean:
+
+    How does black bile become unnatural?
+
+Candidate:
+
+    Black bile forms from yolk-colored bile through extreme heat and burning.
+
+Dean:
+
+    How many types of unnatural bile form outside the blood vessels?
+
+Candidate:
+
+    Three types: leek-colored, rust-colored, and woad-colored (blue-green).
+    Note: Woad is the dye and medicincal plant Isatis tinctoria. See: A Modern Herbal
+
+Dean:
+
+    What creates these types?
+
+Candidate:
+
+    They mainly form in the stomach from poorly digested foods like meat. Yolk-colored bile that enters the stomach often changes into one of these types due to the cold environment.
+
+Dean:
+
+    What causes melancholy to become unnatural?
+
+Candidate:
+
+    When melancholic humor is essentially burned by extreme heat, it becomes sharp and corrosive, differing from normal melancholic fluid like burned dregs differ from unburned ones. This is called black bile or black choleric humor.
+
+Phelgmatic
+
+Dean:
+
+    What causes phlegm to become unnatural?
+
+Candidate:
+
+    It becomes unnatural when it’s corrupted either inside or outside the blood vessels.
+
+Dean:
+
+    How many types of unnatural phlegm form in blood vessels?
+
+Candidate:
+
+    Two types: acidic and salty.
+
+Dean:
+
+    What is acidic phlegm?
+
+Candidate:
+
+    It’s raw and unprocessed phlegm that has only undergone initial digestion in the stomach without further processing.
+
+Dean:
+
+    How does phlegm become salty?
+
+Candidate:
+
+    Sweet phlegm becomes salty when corrupted by mixing with the serous Humour.
+
+Dean:
+
+    How many types of phlegm form outside blood vessels?
+
+Candidate:
+
+    Four types: watery, mucous, glassy, and plaster-like.
+
+Dean:
+
+    What is watery phlegm?
+
+Candidate:
+
+    It’s so thin it drips from the nose or flows down from the brain to the lower parts like water.
+
+Dean:
+
+    What is mucous phlegm?
+
+Candidate:
+
+    It’s phlegm thickened by body heat into the consistency of mucus.
+
+Dean:
+
+    What is glassy phlegm?
+
+Candidate:
+
+    It resembles melted glass in color and consistency, being thicker and colder than mucous phlegm.
+
+Dean:
+
+    What is plaster-like phlegm?
+
+Candidate:
+
+    It becomes as thick and hard as plaster, sometimes found in joints after thinner fluids evaporate, leaving behind phlegm as hard as pumice stone.
+
+Spirits
+
+Dean:
+
+    Moving on from humors to spirits, why does Hippocrates call them “impulsive”?
+
+Candidate:
+
+    Because they enable living creatures to move, sense, live, and exist. Through them, the otherwise sluggish bodies of living things come under the soul’s control and authority. Moreover, they allow physical matter to connect with the non-physical, essentially serving as the bridge between soul and body.
+
+Dean:
+
+    What is the spirit?
+
+Candidate:
+
+    A spirit is an airy, thin, transparent substance that serves as the seat of natural heat, carries the body’s faculties, and is the primary instrument that activates bodily functions.
+
+Dean:
+
+    How many types of spirits are there?
+
+Candidate:
+
+    Two types: innate and infused.
+
+Dean:
+
+    What is the innate spirit?
+
+Candidate:
+
+    It’s the spirit that was embedded in various similar body parts during early development, with its foundation being the body’s Radical Moisture.
+
+Dean:
+
+    What is the infused spirit?
+
+Candidate:
+
+    It’s the spirit that flows in from elsewhere, nourishing and maintaining the innate spirit, while carrying Faculty and Heat throughout the body to enable various functions.
+
+Dean:
+
+    How many types of infused spirit are there?
+
+Candidate:
+
+    Three types: animal, vital, and natural.
+
+Dean:
+
+    What is the animal spirit?
+
+Candidate:
+
+    It’s a spirit generated in the brain’s Ventricles from Vital Spirit and inhaled Air. When distributed through the motor and sensory nerves, it enables the body’s parts to feel and move.
+
+Dean:
+
+    What is the vital spirit?
+
+Candidate:
+
+    It’s produced in the left side of the heart from natural spirit and air taken in by the lungs. From there, it travels through the arteries to all parts of the body to sustain the innate Spirit, strengthen natural Heat, and restore energy.
+
+Dean:
+
+    What is natural heat?
+
+Candidate:
+
+    It’s the heat that originates from the liver and spreads with blood through all veins, enabling generation, nourishment, and growth.
+
+Faculties
+
+Dean:
+
+    Now that we’ve discussed both solid and fluid parts of human bodies, let’s talk about the soul’s faculties and functions. First, define what a soul is.
+
+Candidate:
+
+    A soul is the form of a living body. According to Aristotle, it’s the actualization of a natural, organic body potentially having life.
+
+Editors Note: End of page 45
